@@ -1,0 +1,9 @@
+E:\Programs\C#&.NET\Hider\Hider\bin\Release\Hider.exe.config
+E:\Programs\C#&.NET\Hider\Hider\bin\Release\Hider.exe
+E:\Programs\C#&.NET\Hider\Hider\bin\Release\Hider.pdb
+E:\Programs\C#&.NET\Hider\Hider\obj\Release\Hider.Form1.resources
+E:\Programs\C#&.NET\Hider\Hider\obj\Release\Hider.MainForm.resources
+E:\Programs\C#&.NET\Hider\Hider\obj\Release\Hider.Properties.Resources.resources
+E:\Programs\C#&.NET\Hider\Hider\obj\Release\Hider.csproj.GenerateResource.Cache
+E:\Programs\C#&.NET\Hider\Hider\obj\Release\Hider.exe
+E:\Programs\C#&.NET\Hider\Hider\obj\Release\Hider.pdb

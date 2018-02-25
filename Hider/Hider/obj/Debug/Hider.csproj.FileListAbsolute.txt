@@ -1,0 +1,10 @@
+E:\Programs\C#&.NET\Hider\Hider\bin\Debug\Hider.exe.config
+E:\Programs\C#&.NET\Hider\Hider\bin\Debug\Hider.exe
+E:\Programs\C#&.NET\Hider\Hider\bin\Debug\Hider.pdb
+E:\Programs\C#&.NET\Hider\Hider\obj\Debug\Hider.Form1.resources
+E:\Programs\C#&.NET\Hider\Hider\obj\Debug\Hider.Properties.Resources.resources
+E:\Programs\C#&.NET\Hider\Hider\obj\Debug\Hider.csproj.GenerateResource.Cache
+E:\Programs\C#&.NET\Hider\Hider\obj\Debug\Hider.exe
+E:\Programs\C#&.NET\Hider\Hider\obj\Debug\Hider.pdb
+E:\Programs\C#&.NET\Hider\Hider\obj\Debug\Hider.csprojResolveAssemblyReference.cache
+E:\Programs\C#&.NET\Hider\Hider\obj\Debug\Hider.MainForm.resources
